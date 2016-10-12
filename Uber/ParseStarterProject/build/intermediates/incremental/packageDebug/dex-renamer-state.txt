@@ -1,0 +1,7 @@
+#Wed Oct 12 12:20:58 PDT 2016
+base.0=/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aaae90bff0dd142b92ef2a23eba6ad5f8186c5b5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9048da60ffca5849c8359c76c8dc7c5bd4e7baa/classes.dex
+base.1=/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9048da60ffca5849c8359c76c8dc7c5bd4e7baa
+file.0=/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aaae90bff0dd142b92ef2a23eba6ad5f8186c5b5/classes.dex

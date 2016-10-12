@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_6ce999a6c03dd7d86a31d13eb9548520fc4b2a2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_f5a997d26925a37db8b06173123101756e33904b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_056b8780becb2461d79616db61cd778b3df044a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_9e8574d4a269fe625987722b4277e45fdcea590a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_4573f4c715cfa61beb94cc734f70451473ecb2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_1ae3ba7252a20045b720c4d001f14aa8058234af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0d123e67ed23b815bfb9c19b7a5ab10f6a79367d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_9e745b665339cff90d3a49bd1508dc03682202bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2abd9f212cacccba68af456279cb6ff49772d8ce">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a9048da60ffca5849c8359c76c8dc7c5bd4e7baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_6c213cff996306f3111eef724a20528f463f2edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_e3864803aecf9607008d4d5fc79af670861c670c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_51ad943e5b0847e32d2f5ece4d4e9d00a17ad6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2aa27235501d933b8d1b0f8e42a8b28fa2d2e123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_ab330d7b1488ea73bd77528e245ae28fba95a9df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_660b5ed4d8a24c7cbe8ae72d4db8154300e316d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_a1bda98705973ee9e7c6819de405c1f87fd462b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_779f27fd9481213d6dbc371ddda5211199ee0c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_e96a6d6dfc489ae31955c84e93e06a05ebb8b85b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_37503e38c2f24385671e8e1458412e29a68aaba0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_934e54e0781120b9e7b7a0683000e73c009aaafd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_3d046676350afec894294d315df822a37f860e45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_0481bd4f5374049ce20950ba3b9c2e7586bf00e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_af774066a292c835274a8087f157c7c89a185bf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_dcf8bcf5e24c205d4feb2c7a10da4a8e770edaea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_5585c12c2baf26eeafdf8c2ee422f0d1a2154fd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_9bf007ef1bdf1d69aeb4bdf16646e99502667d40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_ec1b86bef43feace9e181a156af9e455fddc676a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_f7626ec9ae922a62cb8ca13087f9b701527c090d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_dc7031550b820e31c80e4104fc259b6c9fda524c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_e0c4b27ce5b1bb129379d203d561afef3566923b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_519958becdb9edd5ad3e0806921f1bf45b4ba836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_c443333359f84d6020f18016b78bbfe4eb6e2e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_12232176307f3c0954ef5f48cfa021555b940333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_a861537ba479f7ed6128d54483ebc540b21f2471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_e266b0d825183b5822cbca1c73f46540615cc9b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_14c9019d8f1ddd41cfac9fc2b706ae8a44b146c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_70cac6dcad413d1f6b79ab4098ff6ad62d6e08ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_3dbaf98fd75f786b4c2853a15e0f7f1375177b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_ac6d55be62493d3f8f811fde0946bdd1c75ba5b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_216838d42fb21c1567fb5fc5539047a3adee845e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_ea6d26dce8ac207c2472eb22b9e407e18db233bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_bbf7e4cb75778accb59e7ce71615d1d43eb95d61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_f41969d74d63684037e9f629bc1258cc3c5427ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_76e20ecef2767f4b2b0d23f50440d77919bc2031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_cd732df00ebd8bb3527e3fde2cbdb6d402c0b7d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_62a678917fd22fb794bb5db493912156f108b7f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_91d09f089202a89d5f1ba28e3ff9e8787c552e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_38b97bed013661cc18a947246ae2786ae9f3a18b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_3cb7a031045c4c937862e9f66b44f43009423a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_0aeefb3414348c9e708326c366d3829f37200061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_6300b5f415472291595b49db1f04f7773da43b2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_8ec95d27e2e8ba2cf1cf0c37ce183fcf4ba35b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_53cceb69e55ed5db41229567aae6195033227c83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_131d0becbcdec25e8ece505929158c8006488a4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_2da7cbd9e8482ff9bb8a71560b0a29d4cf1a4a98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_4ebbf99644d65739ebf33b8a583890ca69c72a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_e58748796fd6d98f130d661ff764b7a765238100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bc554bef24bfd8bf666bbb867f696f97ce610994">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aaae90bff0dd142b92ef2a23eba6ad5f8186c5b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_7fce7b35a6a7c063ec37629990c4260428f1ea39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_189d4c6355cbda1da294feb920831aaffaaf84b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_a8dde5c512657df694df5dc53c1954a91903efc7/classes.dex" />
+    </item>
+
+</items>

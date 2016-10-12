@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="587006521922145"
+    token="-4336938219631728600"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3360" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="593" />
+    <task
+        name="verifier"
+        duration="48" />
+
+    <artifact
+        location="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="587006521922145"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/karmapandya/UberClone/Uber/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
