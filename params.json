@@ -1,0 +1,6 @@
+{
+  "name": "Uber clone",
+  "tagline": "Ride pick up mobile application for android. Similar to Uber. Implemented driver-side and passenger side of the application.",
+  "body": "### Welcome to Uber Android Application.\r\nGoal of the project was to create android application for users and drivers. Application successfully allows user to request a ride and allows drivers to pickup passengers/users. \r\nGoogle maps api, Parse Server on Amazon EC-2 for real time updates. \r\n\r\n\r\n### Authors and Contributors\r\nYou can contact Karma Pandya (@karmagamer) for this project. \r\n\r\n### Support or Contact\r\nMost of my android projects rely on Parse server. I start my projects with Parse set up and I proceed to complete features according to my vision for the application.\r\nYou can visit my <a href=\"karmapandya.com\">website</a> for data science and machine learning projects. Please send me feedback. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
